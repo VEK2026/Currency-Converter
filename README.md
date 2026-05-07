@@ -27,5 +27,5 @@ self.api_key = "YOUR_API_KEY"
 Что нужно установить на компьютер: - Python 3.10 или выше - Библиотеки: pip install matplotlib requests ---
 
 ## Как запустить
-git clone (https://github.com/VEK2026/Random-Task-Generator/tree/main) cd Expense Tracker python main.py# Currency-Converter
+git clone https://github.com/VEK2026/Currency-Converter/tree/main
 
